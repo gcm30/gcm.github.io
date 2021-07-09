@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4f06"],{"0929":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"classify"},[t("h3",[e._v("分类")])])}],c={name:"Classify",data:function(){return{}},components:{},methods:{},created:function(){}},r=c,i=t("2877"),u=Object(i["a"])(r,s,a,!1,null,"693038fe",null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0a4f06.81798038.js.map

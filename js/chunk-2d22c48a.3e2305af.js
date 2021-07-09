@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c48a"],{f329:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h3",[e._v("优惠劵")])])}],r={name:"Coupons"},u=r,s=t("2877"),o=Object(s["a"])(u,c,a,!1,null,"14af78c9",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d22c48a.3e2305af.js.map
